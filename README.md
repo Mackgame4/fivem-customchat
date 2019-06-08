@@ -1,7 +1,7 @@
 # fivem-customchat
 Isto é o customchat com horas/id/user antes da mensagem
 
-#Como instalar
+## Como instalar
 
 Primeiro substituis o chat do fivem em [system]/chat e colocam o quem vem neste repositorio
 
