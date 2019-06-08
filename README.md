@@ -15,4 +15,4 @@ start MG_rpchat
 ```
 
 Espero que gostem
-https://media.giphy.com/media/eke4aucrezwK4uRYH3/giphy.gif
+https://media1.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif
