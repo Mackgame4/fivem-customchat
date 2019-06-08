@@ -11,7 +11,8 @@ No final colocam no vosso server.cfg pela seguinte ordem
 ```
 start chat
 start customchat
-start MG_rpchat```
+start MG_rpchat
+```
 
 Espero que gostem
 https://media.giphy.com/media/eke4aucrezwK4uRYH3/giphy.gif
