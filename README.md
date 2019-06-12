@@ -14,6 +14,7 @@ No final colocam no vosso server.cfg pela seguinte ordem
 start chat
 start customchat
 start MG_rpchat
+#start esx_rpchat
 ```
 
 Espero que gostem
