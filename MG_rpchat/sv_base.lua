@@ -15,12 +15,12 @@ AddEventHandler( 'chatMessage', function(source, n, message)
 	end
 end)
 
-function sendTweets(source, name, message)
+--[[function sendTweets(source, name, message)
 	TriggerClientEvent('sendNotification', source, "Aguardando rede...")
 	Citizen.Wait(1200)
 	TriggerClientEvent('sendTweet', -1, name, message)
 	TriggerClientEvent('sendNotification', source, "Tweet mandado")
-end
+end--]]
 
 function sendOOCs(id, name, message)
 	Citizen.Wait(0)
